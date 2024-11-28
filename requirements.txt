@@ -2,3 +2,4 @@ groq
 pandas
 matplotlib
 streamlit
+plotly
